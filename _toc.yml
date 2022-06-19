@@ -1,0 +1,28 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: Einleitung.md
+chapters:
+- file: Start und Planung
+  - file: Einleitung.md
+  - file: TED_Talks.md
+  - file: Gewählter_Datensatz.md
+  - file: Bid_Idea_Worksheet.md
+  - file: Erste_Skizze_für_mein_Dashboard.md
+- file: Gewählte Visualisierungen
+  - file: Word_Cloud.md
+  - file: Suchfunktion.md
+  - file: Wichtige_Kennzahlen.md
+  - file: Scatterplot.md
+- file: Daten Auswertung
+  - file: Datenauswertung_und_Datenselektion_mit_Pandas.md
+- file: Reporting
+  - file: Reporting.md
+- file: Darstellung
+  - file: Corporate_Design.md
+  - file: Darstellung_der_Grafiken.md
+- file: Dashboard Programmierung mit Dash
+  - file: Dashboard_Programmierung_mit_Dash.md
+- file: Python Libraries
+  - file: Python_Libraries_und_sonstige_Hilfen.md
